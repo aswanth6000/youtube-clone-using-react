@@ -1,0 +1,76 @@
+.main2{
+    height: 581px;
+    width: 84px;
+    background-color: #212020;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    margin-top: 68px;
+}
+.home{
+    margin-top: 34px;
+
+}
+.home i{
+    color: #e8e9e9;
+    font-size: 23px;
+    cursor: pointer;
+}
+.home p{
+   
+    color: white;
+    font-size: 13px;
+}
+.trending{
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.trending i{
+    color: #e8e9e9;
+    font-size: 23px;
+    cursor: pointer;
+}
+.trending p{
+ 
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+}
+.plist{
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.plist i{
+    color: #e8e9e9;
+    font-size: 23px;
+    cursor: pointer;
+}
+.plist p{
+  
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+}
+.download{
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.download i{
+    color: #e8e9e9;
+    font-size: 23px;
+    cursor: pointer;
+}
+.download p{
+   
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+    
+}

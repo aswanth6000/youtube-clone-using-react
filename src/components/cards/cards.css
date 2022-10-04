@@ -1,0 +1,39 @@
+
+.main3{
+    background-color: #181818;
+    height: 247px;
+    width: 325px;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 85px;
+    justify-content: center;
+}
+.thumb img{
+    width: 284px;
+    height: 170px;
+}
+.ti p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #e8e9e9;
+    margin-left: -281px;
+    margin-top: 171px;
+}
+.chimg p{
+    height: 20px;
+    width: 20px;
+    background-color: aqua;
+    color: #e8e9e9;
+    border-radius: 40px;
+    margin-left: -287px;
+    margin-top: 221px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.chtitle p{
+    margin-left: -260px;
+    margin-top: 220px;
+    color: #e8e9e9;
+}

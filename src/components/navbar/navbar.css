@@ -1,0 +1,85 @@
+.menu i{
+    color: #d8d9d9;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.main{
+    width: 100%;
+    height: 66px;
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    border-bottom:2px solid #2e2f2f;
+    position: fixed;
+}
+.logo img{
+    height: 54px;
+    width: 120px;
+    margin-left: 62px;
+}
+.search{
+    display: flex;
+}
+.search input{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 174px;
+    margin-left: 100px;
+    background-color: #121212;
+    color: #7e7f7f;
+    padding-left: 5px;
+    outline: none;
+    
+}
+.box{
+    height: 34px;
+    background-color: #303031;
+    width: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.search i{
+    color: #dbdbdb;
+}
+.mic{
+    background-color: #191819;
+    height: 38px;
+    width: 38px;
+    display: flex;
+    margin-left: 13px;
+    border-radius: 26px;
+    justify-content: center;
+    align-items: center;
+}
+.mic i{
+    color: #fefffe;
+}
+.video i{
+    color: #e8e9e9;
+    margin-left: 288px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.noti i{
+    color: #e8e9e9;
+    margin-left: 51px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.user{
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    background-color: #be370c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 57px;
+    cursor: pointer;
+    
+}
+.user p{
+    color: #e8e9e9;
+}
