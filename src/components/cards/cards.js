@@ -8,7 +8,7 @@ export default function Body() {
   useEffect(() => {
     axios.get(`videos?key=${API_KEY}&chart=mostPopular&part=snippet&maxResults=50&regionCode=IN`).then((response)=>{
       setVideo(response.data.items);
-      console.log(response.data.items);
+
     })
   },[])
   return (

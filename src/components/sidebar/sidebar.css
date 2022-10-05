@@ -10,7 +10,17 @@
 }
 .home{
     margin-top: 34px;
+    height: 56px;
+    width: 77px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
 
+}
+.home:hover{
+    background-color: #383939;
 }
 .home i{
     color: #e8e9e9;
@@ -21,12 +31,20 @@
    
     color: white;
     font-size: 13px;
+    cursor: pointer;
 }
 .trending{
-    margin-top: 34px;
+    margin-top: 18px;
+    height: 56px;
+    width: 77px;
     display: flex;
-    flex-direction: column;
+    align-content: center;
     align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.trending:hover{
+    background-color: #383939;
 }
 .trending i{
     color: #e8e9e9;
@@ -40,10 +58,17 @@
     cursor: pointer;
 }
 .plist{
-    margin-top: 34px;
+    margin-top: 18px;
+    height: 56px;
+    width: 77px;
     display: flex;
-    flex-direction: column;
+    align-content: center;
     align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.plist:hover{
+    background-color: #383939;
 }
 .plist i{
     color: #e8e9e9;
@@ -57,10 +82,17 @@
     cursor: pointer;
 }
 .download{
-    margin-top: 34px;
+    margin-top: 18px;
+    height: 56px;
+    width: 77px;
     display: flex;
-    flex-direction: column;
+    align-content: center;
     align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.download:hover{
+    background-color: #383939;
 }
 .download i{
     color: #e8e9e9;

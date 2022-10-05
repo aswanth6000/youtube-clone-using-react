@@ -1,0 +1,42 @@
+.box1{
+
+
+    height: 192px;
+    width: 91%;
+    margin-left: 84px;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 68px;
+
+}
+.thumbnail img{
+    height: 148px;
+    width: 239px;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.text{
+    color: #e8e9e9;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 21px;
+}
+.text .vidtitle{
+    font-size: 26x;
+    margin-bottom: 50px;
+}
+.vidis{
+    display: flex;
+}
+.vidis p{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(146, 0, 0);
+    color: #e8e9e9;
+    border-radius: 40px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
